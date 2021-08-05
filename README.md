@@ -54,4 +54,4 @@ Essa aplicação foi construida com:
 ## ✒️ Autor
 
 **Argemiro Dutra Zacouteguy**
-**Desenvolvedor Full Stack Junior**
+**Desenvolvedor - Full Stack Jr**
