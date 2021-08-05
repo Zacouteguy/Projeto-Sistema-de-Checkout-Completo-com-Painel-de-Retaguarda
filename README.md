@@ -1,6 +1,6 @@
 # Burguer Devio (Teste Devio Desenvolvedor Full Stack)
 # Gestão de Checkout de Pedidos 
-
+## 🛠️ TELA DE PESQUISA DE PRODUTO
 <div align="center">
     <img src="https://github.com/Zacouteguy/Projeto-Sistema-de-Checkout-Completo-com-Painel-de-Retaguarda/blob/main/screenchots/tela.PNG" width="400px"</img> 
  
@@ -14,9 +14,14 @@ Implemtado várias formas de pagamentos no chechout do pedido, crédito, débito
 
 A Cosinha recebe os pedidos na tela e pode clicar no botão "pedido concluído", assim ele passa para tela de pedidos concluidos que pode ser acompanhada por garçons e demais colaboradores da empresa.
 
-
+## 🛠️ RESUMO DO PEDIDO
 <div align="center">
-    <img src="/screenchots/carrinho.png" width="400px"</img> 
+    <img src="https://github.com/Zacouteguy/Projeto-Sistema-de-Checkout-Completo-com-Painel-de-Retaguarda/blob/main/screenchots/carrinho.PNG" width="400px"</img> 
+</div>
+
+## 🛠️ CHECKOUT
+<div align="center">
+    <img src="https://github.com/Zacouteguy/Projeto-Sistema-de-Checkout-Completo-com-Painel-de-Retaguarda/blob/main/screenchots/checkout.PNG" width="400px"</img> 
 </div>
 
 
@@ -25,12 +30,10 @@ A Cosinha recebe os pedidos na tela e pode clicar no botão "pedido concluído",
 Basta manter apenas a tela produtos.php retirando as demais interfaces, variáveis de seção, tela de login/cadastro. Usando a aplicação não como um Portal Web, mas sim como aplicação local comunicando internamente os processos com a cozinha.
 
 
-<div align="center">
-    <img src="/screenshots/checkout.png" width="400px"</img> 
-</div>
+## 🛠️ PAINEL GERENCIAL - COZINHA
 
 <div align="center">
-    <img src="/screenshots/cozinha.png" width="400px"</img> 
+    <img src="https://github.com/Zacouteguy/Projeto-Sistema-de-Checkout-Completo-com-Painel-de-Retaguarda/blob/main/screenchots/painel%20cozinha.PNG" width="400px"</img> 
 </div>
 ## 🛠️ Tecnologias para construção
 
