@@ -2,7 +2,8 @@
 # Gestão de Pedidos para delivery com pdo e ajax
 
 
-Aplicação Completo de pedidos para Restaurantes e lanchonetes, sistema totalmente responsivo tanto de pedidos online como via mobile,com interface intuitiva, onde o usuário poderá efetuar o pedido, tbm pode ser implementado um painel de acompanhamento dos status do pedido por exemplo, passando status do progresso pelo banco, no lado da empresa foi desenvolvido um painel gerencial de controle de pedidos pela cozinha.
+
+Aplicação Completa de pedidos para Restaurantes e lanchonetes e afins, sistema totalmente responsivo tanto de pedidos online como via mobile,com interface intuitiva, onde o usuário poderá efetuar o pedido, tbm pode ser implementado um painel de acompanhamento dos status do pedido por exemplo, passando status do progresso pelo banco, no lado da empresa foi desenvolvido um painel gerencial de controle de pedidos pela cozinha.
 
 Possibilidade de cadastrar novos produtos, cadastrar usuários, Recuperar senha, buscar Combos, campo de pesquisa inteligente, mostra produtos mais vendidos, geolocalização da empresa, contato via whatsapp, email...
 
@@ -12,9 +13,13 @@ A Cosinha recebe os pedidos na tela e pode clicar no botão "pedido concluído",
 
 
 
+
+
 ## 🛠️ Simplificando aplicação para uso local com smartphone ou tablet
 
-Basta manter apenas a tela produtos.php retirando as demais interfaces, variáveis de seção e retirando o arquivo rodape.php. Usando não como um Portal Web, mas sim como aplicação local comunicando internamente com a cozinha.
+Basta manter apenas a tela produtos.php retirando as demais interfaces, variáveis de seção, tela de login/cadastro. Usando a aplicação não como um Portal Web, mas sim como aplicação local comunicando internamente os processos com a cozinha.
+
+
 
 
 
