@@ -17,7 +17,7 @@ Essa aplicação foi construida com:
 * [PHP] - Como linguagem web com pdo e ajax.
 * [BOOTSTRAP]- Para estilização e construção de componentes.
 * [HTML] - Para estruturação dos componentes.
-* [CSS] - Para estilização e construção de componentes.
+* [CSS] - Para estilização.
 
 ## ✒️ Autor
 
