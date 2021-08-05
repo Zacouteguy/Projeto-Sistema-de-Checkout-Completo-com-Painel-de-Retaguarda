@@ -2,7 +2,7 @@
 # Gestão de Checkout de Pedidos 
 
 <div align="center">
-    <img src="/screenchots/tela.png" width="400px"</img> 
+    <img src="/main/screenchots/tela.png" width="400px"</img> 
 </div>
 
 Aplicação Completa de pedidos para Restaurantes e lanchonetes e afins, sistema totalmente responsivo tanto de pedidos online ou mobile, interface intuitiva, onde o usuário poderá efetuar o pedido remotamente, no lado da empresa foi desenvolvido um painel gerencial de controle de pedidos pela cozinha.
