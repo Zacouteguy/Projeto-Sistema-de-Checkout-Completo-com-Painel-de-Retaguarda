@@ -2,7 +2,7 @@
 # Gestão de Checkout de Pedidos 
 
 <div align="center">
-    <img src="/screenshots/screen1.jpg" width="400px"</img> 
+    <img src="/screenchots/tela.png" width="400px"</img> 
 </div>
 
 Aplicação Completa de pedidos para Restaurantes e lanchonetes e afins, sistema totalmente responsivo tanto de pedidos online ou mobile, interface intuitiva, onde o usuário poderá efetuar o pedido remotamente, no lado da empresa foi desenvolvido um painel gerencial de controle de pedidos pela cozinha.
@@ -15,7 +15,7 @@ A Cosinha recebe os pedidos na tela e pode clicar no botão "pedido concluído",
 
 
 <div align="center">
-    <img src="/screenshots/screen1.jpg" width="400px"</img> 
+    <img src="/screenchots/carrinho.png" width="400px"</img> 
 </div>
 
 
@@ -25,10 +25,12 @@ Basta manter apenas a tela produtos.php retirando as demais interfaces, variáve
 
 
 <div align="center">
-    <img src="/screenshots/screen1.jpg" width="400px"</img> 
+    <img src="/screenshots/checkout.png" width="400px"</img> 
 </div>
 
-
+<div align="center">
+    <img src="/screenshots/cozinha.png" width="400px"</img> 
+</div>
 ## 🛠️ Tecnologias para construção
 
 Essa aplicação foi construida com:
