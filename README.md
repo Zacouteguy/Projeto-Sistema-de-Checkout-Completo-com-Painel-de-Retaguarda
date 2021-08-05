@@ -2,8 +2,8 @@
 # Gestão de Checkout de Pedidos 
 
 <div align="center">
-    <img src="/main/screenchots/tela.png" width="400px"</img> 
-    ![Screenshot](screenchots/tela.png)
+    <img src="https://github.com/Zacouteguy/Projeto-Sistema-de-Checkout-Completo-com-Painel-de-Retaguarda/blob/main/screenchots/tela.PNG" width="400px"</img> 
+ 
 </div>
 
 Aplicação Completa de pedidos para Restaurantes e lanchonetes e afins, sistema totalmente responsivo tanto de pedidos online ou mobile, interface intuitiva, onde o usuário poderá efetuar o pedido remotamente, no lado da empresa foi desenvolvido um painel gerencial de controle de pedidos pela cozinha.
