@@ -10,9 +10,11 @@ Diversas formas de pagamentos no chechout do pedido, crédito, débito, dinheiro
 
 A Cosinha recebe os pedidos na tela e pode clicar no botão "pedido concluído", assim ele passa para tela de pedidos concluidos que pode ser acompanhada por garçons e demais colaboradores da empresa.
 
-## 🛠️ Simplificando aplicação para tablet
 
-Basta usar apenas a tela produtos retirando as demais, variaveis de seção e retirando o arquivo rodape.php. Usando não como um Portal Web, mas sim como aplicação interna comunicando internamente com a cozinha.
+
+## 🛠️ Simplificando aplicação para uso local com smartphone ou tablet
+
+Basta manter apenas a tela produtos.php retirando as demais interfaces, variáveis de seção e retirando o arquivo rodape.php. Usando não como um Portal Web, mas sim como aplicação local comunicando internamente com a cozinha.
 
 
 
