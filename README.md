@@ -1,7 +1,9 @@
 # Burguer Devio (Teste Devio Desenvolvedor Full Stack)
 # Gestão de Checkout de Pedidos 
 
-
+<div align="center">
+    <img src="/screenshots/screen1.jpg" width="400px"</img> 
+</div>
 
 Aplicação Completa de pedidos para Restaurantes e lanchonetes e afins, sistema totalmente responsivo tanto de pedidos online ou mobile, interface intuitiva, onde o usuário poderá efetuar o pedido remotamente, no lado da empresa foi desenvolvido um painel gerencial de controle de pedidos pela cozinha.
 
@@ -12,7 +14,9 @@ Implemtado várias formas de pagamentos no chechout do pedido, crédito, débito
 A Cosinha recebe os pedidos na tela e pode clicar no botão "pedido concluído", assim ele passa para tela de pedidos concluidos que pode ser acompanhada por garçons e demais colaboradores da empresa.
 
 
-
+<div align="center">
+    <img src="/screenshots/screen1.jpg" width="400px"</img> 
+</div>
 
 
 ## 🛠️ Simplificando aplicação para uso local com smartphone ou tablet
@@ -20,7 +24,9 @@ A Cosinha recebe os pedidos na tela e pode clicar no botão "pedido concluído",
 Basta manter apenas a tela produtos.php retirando as demais interfaces, variáveis de seção, tela de login/cadastro. Usando a aplicação não como um Portal Web, mas sim como aplicação local comunicando internamente os processos com a cozinha.
 
 
-
+<div align="center">
+    <img src="/screenshots/screen1.jpg" width="400px"</img> 
+</div>
 
 
 ## 🛠️ Tecnologias para construção
