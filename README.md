@@ -1,5 +1,7 @@
-
-# Gestão de Checkout de Pedidos 
+## :barber: O projeto
+<br>
+# Gestão e Checkout de Pedidos 
+<br>
 ## 🛠️ TELA DE PESQUISA DE PRODUTO
 
 
@@ -8,6 +10,7 @@ Aplicação Completa de pedidos para Restaurantes e lanchonetes e afins, sistema
 Possibilidade de cadastrar novos produtos, cadastrar usuários, Recuperar senha, buscar Combos, campo de pesquisa, mostrar produtos mais vendidos, geolocalização da empresa, contato via whatsapp, email...
 
 
+## :fire: Prévia da Aplicação
 <div align="center">
     <img src="https://github.com/Zacouteguy/Projeto-Sistema-de-Checkout-Completo-com-Painel-de-Retaguarda/blob/main/screenchots/tela.PNG" width="400px"</img> 
  
@@ -53,5 +56,12 @@ Essa aplicação foi construida com:
 
 ## ✒️ Autor
 
-**Argemiro Dutra Zacouteguy**
-**Desenvolvedor - Full Stack Jr**
+
+
+### :memo: Licença
+
+Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para saber mais detalhes.
+
+<p align="center" style="margin-top: 20px; border-top: 1px solid #eee; padding-top: 20px;">Feito com :purple_heart: by <strong> Argemiro Dutra Zacouteguy</strong> </p>
+
+
