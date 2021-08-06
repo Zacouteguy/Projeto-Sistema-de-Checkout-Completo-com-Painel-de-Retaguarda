@@ -8,7 +8,7 @@
 ## 🛠️ TELA DE PESQUISA DE PRODUTO
 
 
-Aplicação Completa de pedidos para Restaurantes e lanchonetes e afins, sistema totalmente responsivo tanto de pedidos online ou mobile, interface intuitiva, onde o usuário poderá efetuar o pedido remotamente, no lado da empresa foi desenvolvido um painel gerencial de controle de pedidos pela cozinha.
+Aplicação para otimizar os processos de pedidos em Restaurantes, lanchonetes e afins, sistema totalmente responsivo tanto de pedidos online ou mobile, interface intuitiva, onde o usuário poderá efetuar o pedido remotamente, no lado da empresa foi desenvolvido um painel gerencial de controle de pedidos pela cozinha.
 
 Possibilidade de cadastrar novos produtos, cadastrar usuários, Recuperar senha, buscar Combos, campo de pesquisa, mostrar produtos mais vendidos, geolocalização da empresa, contato via whatsapp, email...
 
