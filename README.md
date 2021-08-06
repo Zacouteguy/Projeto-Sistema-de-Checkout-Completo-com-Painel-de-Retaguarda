@@ -61,12 +61,6 @@ Essa aplicação foi construida com:
 * [CSS] - Para estilização.
 
 
-
-
-### :memo: Licença
-
-Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para saber mais detalhes.
-
 <br>
 
 
@@ -75,6 +69,6 @@ Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENS
 
 <br>
 
-<p align="center" style="margin-top: 20px; border-top: 1px solid #eee; padding-top: 20px;">Feito com :purple_heart: by <strong> Argemiro Dutra Zacouteguy</strong> </p>
+<p align="center" style="margin-top: 20px; border-top: 1px solid #eee; padding-top: 20px;">Feito com :purple_heart: e :coffee: by <strong> Argemiro Dutra Zacouteguy</strong> </p>
 
 
