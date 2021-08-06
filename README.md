@@ -69,6 +69,6 @@ Essa aplicação foi construida com:
 
 <br>
 
-<p align="center" style="margin-top: 20px; border-top: 1px solid #eee; padding-top: 20px;">Feito com :purple_heart: e :coffee: by <strong> Argemiro Dutra Zacouteguy</strong> </p>
+<p align="center" style="margin-top: 20px; border-top: 1px solid #eee; padding-top: 20px;">Feito com :red_heart: e muito :coffee: by <strong> Argemiro Dutra Zacouteguy</strong> </p>
 
 
