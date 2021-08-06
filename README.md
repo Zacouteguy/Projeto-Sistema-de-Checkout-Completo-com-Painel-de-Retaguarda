@@ -53,7 +53,6 @@ Basta manter apenas a tela produtos retirando as demais interfaces, variáveis d
 
 A Cosinha recebe os pedidos na tela e pode clicar no botão "pedido concluído", assim ele passa para tela de pedidos concluidos que pode ser acompanhada por garçons e demais colaboradores da empresa.
 
-Para trazer mais informações do pedido na tela da cozinha, basta fazer um inner join da tabela vendas, tabela produtos e com a tabela carrinho , passando os ids. Depois na paasta painel cozinha dar um echo dessas informações no index.php
 
 <div align="center">
     <img src="https://github.com/Zacouteguy/Projeto-Sistema-de-Checkout-Completo-com-Painel-de-Retaguarda/blob/main/screenchots/painel%20cozinha.PNG" width="400px"</img> 
