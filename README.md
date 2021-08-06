@@ -30,6 +30,9 @@ Possibilidade de cadastrar novos produtos, cadastrar usuários, Recuperar senha,
 <br>
 
 ## 🛠️ CHECKOUT
+
+<br>
+
 Implementado várias formas de pagamentos no chechout do pedido, crédito, débito, dinheiro, mercado pago, api. Sistema integrado com banco de dados com todas as tabelas necessarias ao funcionamento do mesmo. Sistema com Carrinho de compras, Resumo do Pedido, Faz cálculo de troco a ser levado na hora da entrega.
 Observações do pedido.
 <div align="center">
@@ -37,7 +40,9 @@ Observações do pedido.
 </div>
 
 <br>
+
 ## 🛠️ Simplificando aplicação para uso local com smartphone ou tablet
+
 <br>
 Basta manter apenas a tela produtos retirando as demais interfaces, variáveis de seção, tela de login/cadastro... Usando a aplicação não como um Portal Web, mas sim como aplicação local comunicando internamente os processos com a cozinha.
 
