@@ -1,4 +1,4 @@
-## O projeto
+:four_leaf_clover: ## O projeto
 <br>
 
 # Gestão e Checkout de Pedidos 
