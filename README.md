@@ -1,7 +1,10 @@
-## :barber: O projeto
+## O projeto
 <br>
+
 # Gestão e Checkout de Pedidos 
+
 <br>
+
 ## 🛠️ TELA DE PESQUISA DE PRODUTO
 
 
@@ -11,6 +14,8 @@ Possibilidade de cadastrar novos produtos, cadastrar usuários, Recuperar senha,
 
 
 ## :fire: Prévia da Aplicação
+<br>
+
 <div align="center">
     <img src="https://github.com/Zacouteguy/Projeto-Sistema-de-Checkout-Completo-com-Painel-de-Retaguarda/blob/main/screenchots/tela.PNG" width="400px"</img> 
  
@@ -32,11 +37,12 @@ Observações do pedido.
 
 
 ## 🛠️ Simplificando aplicação para uso local com smartphone ou tablet
-
-Basta manter apenas a tela produtos.php retirando as demais interfaces, variáveis de seção, tela de login/cadastro. Usando a aplicação não como um Portal Web, mas sim como aplicação local comunicando internamente os processos com a cozinha.
+<br>
+Basta manter apenas a tela produtos retirando as demais interfaces, variáveis de seção, tela de login/cadastro... Usando a aplicação não como um Portal Web, mas sim como aplicação local comunicando internamente os processos com a cozinha.
 
 
 ## 🛠️ PAINEL GERENCIAL - COZINHA
+<br>
 A Cosinha recebe os pedidos na tela e pode clicar no botão "pedido concluído", assim ele passa para tela de pedidos concluidos que pode ser acompanhada por garçons e demais colaboradores da empresa.
 
 Para trazer mais informações do pedido na tela da cozinha, basta fazer um inner join da tabela vendas, tabela produtos e com a tabela carrinho , passando os ids. Depois na paasta painel cozinha dar um echo dessas informações no index.php
@@ -46,7 +52,7 @@ Para trazer mais informações do pedido na tela da cozinha, basta fazer um inne
 </div>
 
 ## 🛠️ Tecnologias para construção
-
+<br>
 Essa aplicação foi construida com:
 
 * [PHP] - Como linguagem web utilizando pdo e ajax.
@@ -54,13 +60,20 @@ Essa aplicação foi construida com:
 * [HTML] - Para estruturação dos componentes.
 * [CSS] - Para estilização.
 
-## ✒️ Autor
 
 
 
 ### :memo: Licença
 
 Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para saber mais detalhes.
+
+<br<
+
+
+## ✒️ Autor
+
+
+<br<
 
 <p align="center" style="margin-top: 20px; border-top: 1px solid #eee; padding-top: 20px;">Feito com :purple_heart: by <strong> Argemiro Dutra Zacouteguy</strong> </p>
 
